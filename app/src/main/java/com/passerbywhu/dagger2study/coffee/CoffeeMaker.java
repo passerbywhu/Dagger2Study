@@ -1,4 +1,4 @@
-package com.passerbywhu.dagger2study.simpleguide;
+package com.passerbywhu.dagger2study.coffee;
 
 import javax.inject.Inject;
 

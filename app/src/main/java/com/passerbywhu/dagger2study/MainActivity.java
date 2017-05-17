@@ -9,8 +9,6 @@ import com.passerbywhu.dagger2study.filedinject.DaggerManComponent;
 import com.passerbywhu.dagger2study.filedinject.Man;
 import com.passerbywhu.dagger2study.filedinject.ManComponent;
 
-import javax.inject.Inject;
-
 /**
  * Created by passe on 2016/6/7.
  */
