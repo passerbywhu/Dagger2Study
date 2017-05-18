@@ -9,7 +9,7 @@ public class TestModule {
 //    @Provides
     public TestData provideTestData() {
         TestData data = new TestData();
-        data.owner = "MainActivity";
+        data.owner = "MainAxeActivity";
         return data;
     }
 }

@@ -1,10 +1,11 @@
-package com.passerbywhu.dagger2study;
+package com.passerbywhu.dagger2study.filedinject;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
+import com.passerbywhu.dagger2study.R;
 import com.passerbywhu.dagger2study.filedinject.DaggerManComponent;
 import com.passerbywhu.dagger2study.filedinject.Man;
 import com.passerbywhu.dagger2study.filedinject.ManComponent;
@@ -12,7 +13,7 @@ import com.passerbywhu.dagger2study.filedinject.ManComponent;
 /**
  * Created by passe on 2016/6/7.
  */
-public class MainActivity extends AppCompatActivity {
+public class MainAxeActivity extends AppCompatActivity {
     private TextView mTextView;
     private Man man;
 
